@@ -1,0 +1,3 @@
+> A Future represents the result of an asynchronous computation. Methods are provided to check if the computation is complete, to wait for its completion, and to retrieve the result of the computation. The result can only be retrieved using method get when the computation has completed, blocking if necessary until it is ready. Cancellation is performed by the cancel method.
+
+> It is similar to [java.util.concurrent.Future](http://cupi2.uniandes.edu.co/~cupi2/sitio/images/recursos/javadoc/j2se/1.5.0/docs/api/java/util/concurrent/Future.html)
